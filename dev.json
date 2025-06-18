@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "extendscript-debug",
+      "hostAppSpecifier": "indesign-19.064",
+      "engineName": "main",
+      "request": "launch",
+      "name": "InDesign 2024",
+      "script": "${file}"
+    },
+    {
+      "type": "extendscript-debug",
+      "hostAppSpecifier": "indesign-20.064",
+      "engineName": "main",
+      "request": "launch",
+      "name": "InDesign 2025",
+      "script": "${file}"
+    }
+  ]
+}
